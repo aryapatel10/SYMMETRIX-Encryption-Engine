@@ -1,5 +1,5 @@
 # SYMMETRIX-Encryption-Engine
-Created an encryption algorithm, utilising substitution and bitwise XOR operations, implemented the prototype in Python featuring custom functions for two-way encryption and decryption of arbitrary strings.
+Created an encryption algorithm, utilising substitution and bitwise XOR operations, implemented the prototype in Python featuring custom functions for two-way encryption and decryption of arbitrary strings. **[View Project Demo](https://symmetrix-encryption-engine.netlify.app/)**
 
 ## Methodology
 1. Caesar Cipher for Substitution:
@@ -58,4 +58,4 @@ Decrypted Text: Restored to original plaintext after XOR and reverse substitutio
 This encryption and decryption methodology ensures a two-layer security approach by combining substitution and bitwise operations, making it robust against simple cryptographic attacks. The flow of the code highlights the step-by-step transformation of the text, ensuring clarity and understanding of the custom algorithm implemented.
 
 ## Output
-<img width="433" alt="symmetrix output" src="https://github.com/aryapatel10/SYMMETRIX-Encryption-Engine/assets/118880564/192d9def-8387-4cc2-8fd5-aedb6e43eba4">
+<img width="433" alt="https://github.com/aryapatel10/SYMMETRIX-Encryption-Engine/blob/main/Encrypt.png">
