@@ -58,4 +58,5 @@ Decrypted Text: Restored to original plaintext after XOR and reverse substitutio
 This encryption and decryption methodology ensures a two-layer security approach by combining substitution and bitwise operations, making it robust against simple cryptographic attacks. The flow of the code highlights the step-by-step transformation of the text, ensuring clarity and understanding of the custom algorithm implemented.
 
 ## Output
-<img width="433" alt="https://github.com/aryapatel10/SYMMETRIX-Encryption-Engine/blob/main/Encrypt.png">
+![Encryption Demo](https://github.com/aryapatel10/SYMMETRIX-Encryption-Engine/blob/main/Encrypt.png?raw=true)
+
